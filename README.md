@@ -40,6 +40,7 @@
 - [Immich Trip Albummer](https://github.com/sophie4869/immich-trip-albums) - Python CLI that clusters photos and videos taken away from home into one album per trip. Deterministic, dry-run by default, and idempotent on re-runs.
 - [camie-immich-tagger](https://github.com/PlanetMeow/camie-immich-tagger) - Local anime/illustration auto-tagging (camie-tagger-v2) that writes hierarchical XMP sidecar tags for browsing and search in Immich, with optional SauceNAO reverse-search backfill.
 - [Immich Geotag](https://github.com/pennico/immich-geotag) - Fill in missing GPS coordinates by recognizing landmarks (Google Cloud Vision, with optional Lens, Gemini, and visual-similarity passes). Add-only and idempotent: photos that already have a location are never touched.
+- [Immich Relocator](https://github.com/bihius/immich-relocator) - Relocate pics & videos from Immich internal folder to one or more External Libraries, while updating the Immich db accordingly, so that you never lose track of albums, stacks, faces, tags, etc.
 
 ## Slideshow & Display
 
