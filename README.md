@@ -27,6 +27,7 @@
 - [Lightroom Immich Plugin: lrc-immich-plugin](https://github.com/bmachek/lrc-immich-plugin) - Lightroom plugin to publish and export photos from Lightroom to Immich. Import from Immich to Lightroom is also supported.
 - [Obsidian Immich Picker](https://github.com/eikowagenknecht/obsidian-immich-picker) - Obsidian plugin to browse and insert photos from your Immich library into notes.
 - [Immich Shuttle](https://github.com/enieuwy/immich-shuttle) - Cross-platform desktop app to import photos and videos into Immich from folders or removable media (SD cards, USB drives) with a point-and-click UI, album selection, and live import progress.
+- [Immich Face Export](https://github.com/laszabine/immich-face-export) - A Python tool to export face recognition data from Immich photo management system to DigiKam-compatible XMP format files.
 
 ## Media Management
 
