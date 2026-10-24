@@ -34,6 +34,7 @@
 - [Immich MediaKit](https://github.com/RazgrizHsu/immich-mediakit) - Extension toolkit enabling advanced management capabilities through AI-powered similarity detection and duplicate management.
 - [Immich Auto Stack](https://github.com/tenekev/immich-auto-stack) - Python script that automatically stacks together photos based on configurable criteria like filename and capture time.
 - [immich-photo-manager](https://github.com/drolosoft/immich-photo-manager) - MCP server and Claude Code plugin that manages your Immich library through conversation: natural language and OCR search, geographic albums from GPS data, duplicates with perceptual hashing, people and faces, metadata repair, video frames and PDF photobooks. 94 tools and 13 skills, tested live on Immich 2.x and 3.x, also available with uvx or as a Docker image.
+- [Immich Trip Albummer](https://github.com/sophie4869/immich-trip-albums) - Python CLI that clusters photos and videos taken away from home into one album per trip. Deterministic, dry-run by default, and idempotent on re-runs.
 
 ## Slideshow & Display
 
