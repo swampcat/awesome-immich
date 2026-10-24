@@ -47,6 +47,7 @@
 - [Slyde](https://github.com/SlyWombat/slyde) - Pushes Immich photos to digital photo frames — incl. reviving the discontinued Memento Smart Frame over a reverse-engineered LAN protocol, no cloud.
 - [Immich Android TV](https://github.com/giejay/Immich-Android-TV) - Unofficial Immich Android TV app.
 - [Immich Gallery](https://github.com/mensadilabs/Immich-Gallery) - Native Apple TV app with grid view, people recognition, albums, slideshow mode, and multi-user support.
+- [Immuch360](https://github.com/freeKC/Immuch360) - Fork of the Immich mobile app with 360° photos and videos, 3D and VR180, a Meta Quest 3 immersive view, a mode without a server and SMB/WebDAV shares.
 
 ## Optimization
 
