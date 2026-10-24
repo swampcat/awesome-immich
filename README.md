@@ -41,6 +41,7 @@
 - [camie-immich-tagger](https://github.com/PlanetMeow/camie-immich-tagger) - Local anime/illustration auto-tagging (camie-tagger-v2) that writes hierarchical XMP sidecar tags for browsing and search in Immich, with optional SauceNAO reverse-search backfill.
 - [Immich Geotag](https://github.com/pennico/immich-geotag) - Fill in missing GPS coordinates by recognizing landmarks (Google Cloud Vision, with optional Lens, Gemini, and visual-similarity passes). Add-only and idempotent: photos that already have a location are never touched.
 - [Immich Relocator](https://github.com/bihius/immich-relocator) - Relocate pics & videos from Immich internal folder to one or more External Libraries, while updating the Immich db accordingly, so that you never lose track of albums, stacks, faces, tags, etc.
+- [motion-photo-bridge](https://github.com/duruonanni/motion-photo-bridge) - Merges dual-file live photos (the same-stem `JPG` + `MP4` pairs that vivo and iQOO phones produce) into standard Motion Photo JPEGs, links them in Immich, and can convert pairs that are already in the library in place.
 
 ## Slideshow & Display
 
