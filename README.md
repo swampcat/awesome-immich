@@ -39,6 +39,7 @@
 - [immich-photo-manager](https://github.com/drolosoft/immich-photo-manager) - MCP server and Claude Code plugin that manages your Immich library through conversation: natural language and OCR search, geographic albums from GPS data, duplicates with perceptual hashing, people and faces, metadata repair, video frames and PDF photobooks. 94 tools and 13 skills, tested live on Immich 2.x and 3.x, also available with uvx or as a Docker image.
 - [Immich Trip Albummer](https://github.com/sophie4869/immich-trip-albums) - Python CLI that clusters photos and videos taken away from home into one album per trip. Deterministic, dry-run by default, and idempotent on re-runs.
 - [camie-immich-tagger](https://github.com/PlanetMeow/camie-immich-tagger) - Local anime/illustration auto-tagging (camie-tagger-v2) that writes hierarchical XMP sidecar tags for browsing and search in Immich, with optional SauceNAO reverse-search backfill.
+- [Immich Geotag](https://github.com/pennico/immich-geotag) - Fill in missing GPS coordinates by recognizing landmarks (Google Cloud Vision, with optional Lens, Gemini, and visual-similarity passes). Add-only and idempotent: photos that already have a location are never touched.
 
 ## Slideshow & Display
 
